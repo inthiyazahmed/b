@@ -1,4 +1,4 @@
-class m
+class mmm
 {
 public static void main(string[] args)
 {
